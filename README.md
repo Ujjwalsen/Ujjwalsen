@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ujjwal Sen</h1>
+<h1 align="center">Hello! I'm Ujjwal Sen</h1>
 <h3 align="center">A Self-driven and Inquisitive Computer Science Undergraduate</h3>
 
 <p align="center">
@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Github-Dark.svg" height="40" alt="GitHub" />
 </p>
 
 ---
